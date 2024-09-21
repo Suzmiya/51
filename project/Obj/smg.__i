@@ -1,0 +1,1 @@
+"App\smg\smg.c" OPTIMIZE (8,SPEED) BROWSE INCDIR(.\App\24c02;.\App\iic;.\App\key;.\App\smg;.\Public;.\App\ds18b20;.\App\ds1302;.\App\lcd1602) DEBUG OBJECTEXTEND PRINT(.\Obj\smg.lst) TABS (2) OBJECT(.\Obj\smg.obj)
